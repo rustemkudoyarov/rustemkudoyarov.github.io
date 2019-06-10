@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+nav {
+  font-size: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 30px;
+}
+
+.nav_link {
+  color: white;
+  text-decoration: none;
+  margin: 30px;
+  font-family: 'Source Code Pro', sans-serif;
+  text-transform: uppercase;
+}
+
+#about_link{
+  color:white;
+}
+
+
+#top_section {
+    font-family: cursive;
+    text-align: center;
+}
+
+#top_section h1{
+  margin-top: 80px;
+  font-family: 'Source Code Pro', sans-serif;
+  text-transform: uppercase;
+}
